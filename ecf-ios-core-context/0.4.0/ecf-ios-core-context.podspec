@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version      =  "0.4.0"
   s.summary      =  "easycompany framework iOS core context"
   s.author       = { 'Mahmoud Khalifa' => 'mahmoud.khalifa@lognlabs.com' }
-  s.source       =  { :git => "git@bitbucket.org:easycompany/ecf-ios-core-context.git", :commit => "9f0a613801f9ab8d868d2a65c682c7ed328c90ae" }
+  s.source       =  { :git => "git@bitbucket.org:easycompany/ecf-ios-core-context.git", :commit => "88245d8afddfae82092e67396391e34a6e2787c5" }
   s.source_files = 'ecf-ios-core-context/*.{h,m}'
   s.platform     =  :ios#, '5.0'
   s.ios.dependency 'ecf-ios-common',  '~> 0.4.0'
